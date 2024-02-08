@@ -5,9 +5,9 @@
   <br />
   <br />
 
-  <h2 align="center">Blogy - Blog Website</h2>
+  <h2 align="center">Celestial - Blog Website</h2>
 
-  Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Celestial is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 
 
@@ -15,6 +15,3 @@
 
 <br />
 
-### Demo Screeshots
-
-![Blogy Desktop Demo](./desktop.png "Desktop Demo")
