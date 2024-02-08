@@ -17,4 +17,4 @@
 
 ### Demo Screeshots
 
-![Blogy Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Blogy Desktop Demo](./desktop.png "Desktop Demo")
